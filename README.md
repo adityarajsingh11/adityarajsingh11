@@ -12,23 +12,31 @@
 
 ---
 
-### 🌟 About Me  
-- 👨‍🎓 **BE Student** passionate about **Full Stack Development** & **C++ DSA**  
-- 💻 Exploring **Machine Learning** & **Data Science**  
-- 🚀 Love building impactful web apps & solving challenging problems  
-- 📫 Reach me at: **9555adityarajsingh@gmail.com**
 
----
+
+### 🌟 About Me  
+
+<div style="font-size: 16px; line-height: 1.6;">
+  
+- 👨‍🎓 <strong>BE Student</strong> passionate about <strong>Full Stack Development</strong> & <strong>C++ DSA</strong>  
+- 💻 Exploring <strong>Machine Learning</strong> & <strong>Data Science</strong>  
+- 🚀 Love building impactful web apps & solving challenging problems  
+- 📫 Reach me at: <strong>9555adityarajsingh@gmail.com</strong>
+
+</div>
 
 ---
 
 ### 🏆 GitHub Achievements  
 
-<p align="center">
+<div align="center" style="font-size: 16px;">
   <img src="https://github-profile-trophy.vercel.app/?username=adityarajsingh11&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+</div>
 
 ---
+
+
+
 
 
 ### 🌐 Connect with Me  
