@@ -1,10 +1,13 @@
-<!-- Typing Intro Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Aditya+Raj+Singh;BE+Student+👨‍🎓;Full+Stack+%26+C%2B%2B+DSA+Enthusiast;Exploring+ML+%26+Data+Science+🚀" alt="Typing Animation" />
+<h1 align="center"> 
+  👋 Hey there, I'm <span style="color:#00BFFF;">Aditya Raj Singh</span>
 </h1>
 
+<h3 align="center">
+  🚀 BE Student | 💻 Full Stack Developer | 🧠 C++ DSA Enthusiast
+</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityarajsingh11&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+C%2B%2B+DSA+Learner;Machine+Learning+%26+Data+Science+Explorer;Love+to+Build+Impactful+Projects" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,12 +20,16 @@
 
 ---
 
+---
+
 ### 🏆 GitHub Achievements  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityarajsingh11&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adityarajsingh11&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
+
 
 ### 🌐 Connect with Me  
 <p align="center">
