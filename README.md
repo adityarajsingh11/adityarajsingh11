@@ -51,40 +51,6 @@ const aditya = {
 
 ---
 
-## 🏆 GitHub Achievements
-
-<!--
-  TROPHY FIX EXPLAINED:
-  The main vercel instance is rate-limited & often down for newer accounts.
-  Solution: Use ALL 3 community mirror forks as fallbacks.
-  If the first image is blank, swap the src to the next mirror URL.
-  Mirror 1: github-profile-trophy-fork-two.vercel.app
-  Mirror 2: github-profile-trophy-winning.vercel.app
-  Mirror 3: github-profile-trophy-liard-delta.vercel.app
--->
-
-<div align="center">
-
-  <!-- Try Mirror 1 first — most stable community fork -->
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=adityarajsingh11&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies Row 1" />
-
-</div>
-
-<!-- Permanent achievement badges — always visible, never breaks -->
-<div align="center">
-  <br/>
-
-  ![MERN Stack](https://img.shields.io/badge/🏆_MERN_Developer-Full_Stack_Builder-00BFFF?style=for-the-badge&labelColor=0d1117)
-  ![DSA](https://img.shields.io/badge/⚔️_C%2B%2B_DSA-Problem_Solver-FF6B6B?style=for-the-badge&labelColor=0d1117)
-  ![ML](https://img.shields.io/badge/🤖_ML_Explorer-Data_Science-FFD700?style=for-the-badge&labelColor=0d1117)
-  ![OSS](https://img.shields.io/badge/🌍_Open_Source-Contributor-4CAF50?style=for-the-badge&labelColor=0d1117)
-  ![Repos](https://img.shields.io/badge/📦_12_Repos-Active_Builder-a855f7?style=for-the-badge&labelColor=0d1117)
-  ![Location](https://img.shields.io/badge/📍_Pune-Maharashtra-FF9800?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -102,136 +68,108 @@ const aditya = {
 
 ### 🎨 Frontend
 
-<p align="left">
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-
 </p>
 
 ---
 
 ### ⚙️ Backend
 
-<p align="left">
-
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" title="Node.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
+<p align="center">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-
 </p>
 
 ---
 
 ### 🗃️ Databases
 
-<p align="left">
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+<p align="center">
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-
 </p>
 
 ---
 
 ### 💡 Languages
 
-<p align="left">
-
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+<p align="center">
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-
 </p>
 
 ---
 
 ### 📊 Data Science & ML
 
-<p align="left">
-
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+<p align="center">
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="Scikit-Learn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" title="Seaborn">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" title="Matplotlib">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" title="TensorFlow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-
 </p>
 
 ---
 
 ### 🛠️ Tools & Platforms
 
-<p align="left">
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VS Code">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-  &nbsp;
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer" title="Postman">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" style="display:inline-block;margin:10px;" />
   </a>
-
 </p>
 
 ---
@@ -267,65 +205,7 @@ const aditya = {
 [![SocketVerse](https://github-readme-stats.vercel.app/api/pin/?username=adityarajsingh11&repo=SocketVerse&theme=algolia&hide_border=true)](https://github.com/adityarajsingh11/SocketVerse)
 
 [![WanderStay](https://github-readme-stats.vercel.app/api/pin/?username=adityarajsingh11&repo=WanderStay&theme=algolia&hide_border=true)](https://github.com/adityarajsingh11/WanderStay)
-[![DSA](https://github-readme-stats.vercel.app/api/pin/?username=adityarajsingh11&repo=DSA&theme=algolia&hide_border=true)](https://github.com/adityarajsingh11/DSA)
 
-[![Smart-Resume-Builder](https://github-readme-stats.vercel.app/api/pin/?username=adityarajsingh11&repo=Smart-Resume-Builder&theme=algolia&hide_border=true)](https://github.com/adityarajsingh11/Smart-Resume-Builder)
-[![Mern-Stack-development](https://github-readme-stats.vercel.app/api/pin/?username=adityarajsingh11&repo=Mern-Stack-development&theme=algolia&hide_border=true)](https://github.com/adityarajsingh11/Mern-Stack-development)
-
-</div>
-
----
-
-## 🎯 2025 Goals
-
-<div align="center">
-
-| Status | Goal |
-|:------:|------|
-| ✅ | Started DSA journey in C++ |
-| 🔄 | Build 5 full-stack MERN projects |
-| 🔄 | Contribute to Open Source (10+ PRs) |
-| 🔄 | Deep dive into Machine Learning |
-| 🔄 | Land a great developer internship |
-| 🔄 | Solve 200+ DSA problems |
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<!--
-  ONE-TIME SETUP — create .github/workflows/snake.yml in your profile repo:
-
-  name: Generate Snake
-  on:
-    schedule: [{ cron: "0 0 * * *" }]
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: adityarajsingh11
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/adityarajsingh11/adityarajsingh11/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityarajsingh11/adityarajsingh11/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/adityarajsingh11/adityarajsingh11/output/github-snake.svg" />
-  </picture>
 </div>
 
 ---
