@@ -1,180 +1,168 @@
-<h1 align="center"> 
-  👋 Hey there, I'm <span style="color:#00BFFF;">Aditya Raj Singh</span>
-</h1>
+<div align="center">
 
-<h3 align="center">
-  🚀 BE Student | 💻 Full Stack Developer | 🧠 C++ DSA Enthusiast
-</h3>
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Raj%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20C%2B%2B%20DSA%20Enthusiast%20%7C%20ML%20Explorer&descAlignY=55&descSize=18" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+C%2B%2B+DSA+Learner;Machine+Learning+%26+Data+Science+Explorer;Love+to+Build+Impactful+Projects" alt="Typing SVG" />
-</p>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+Stack;C%2B%2B+DSA+%7C+Problem+Solver;Machine+Learning+%26+Data+Science+Explorer;Building+Impactful+Projects+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
----
+<br/>
 
-
-
-### 🌟 About Me  
-
-<div style="font-size: 16px; line-height: 1.6;">
-  
-- 👨‍🎓 <strong>BE Student</strong> passionate about <strong>Full Stack Development</strong> & <strong>C++ DSA</strong>  
-- 💻 Exploring <strong>Machine Learning</strong> & <strong>Data Science</strong>  
-- 🚀 Love building impactful web apps & solving challenging problems  
-- 📫 Reach me at: <strong>9555adityarajsingh@gmail.com</strong>
+<!-- Profile Views Badge -->
+<img src="https://komarev.com/ghpvc/?username=adityarajsingh11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/adityarajsingh11?label=Followers&style=social" alt="GitHub Followers" />
 
 </div>
 
 ---
 
-### 🏆 GitHub Achievements  
+## 👨‍💻 About Me
 
-<div align="center" style="font-size: 16px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityarajsingh11&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+```javascript
+const aditya = {
+  name: "Aditya Raj Singh",
+  role: "Full Stack Developer & BE Student",
+  location: "India 🇮🇳",
+  email: "9555adityarajsingh@gmail.com",
+  education: "Bachelor of Engineering",
+  skills: {
+    frontend:  ["React", "HTML5", "CSS3", "JavaScript", "Tailwind", "Bootstrap"],
+    backend:   ["Node.js", "Express.js"],
+    databases: ["MongoDB", "MySQL"],
+    languages: ["C++", "Python"],
+    ml_ds:     ["Pandas", "Scikit-Learn", "Seaborn", "Matplotlib"],
+    tools:     ["Git", "GitHub", "VS Code"]
+  },
+  currentFocus: "Building full-stack apps & mastering DSA",
+  funFact: "I debug code faster with coffee ☕"
+};
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityarajsingh11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
+## 🌐 Connect With Me
 
+<div align="center">
 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_op_aditya_11)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityarajsingh117/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9555adityarajsingh@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityarajsingh11)
 
-
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://twitter.com/_op_aditya_11" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/adityarajsingh117/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/iadityarajsingh" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/iadityarajsingh" target="blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
 ## 🚀 Tech Stack & Tools
 
-### 🧰 Frontend
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="45" height="45"/>
-  </a>
-</p>
+### 🎨 Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</div>
 
----
+### ⚙️ Backend & Databases
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</div>
 
-### 🛠 Backend
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="45" height="45"/>
-  </a>
-</p>
-
----
-
-### 🗃 Databases
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-  </a>
-</p>
-
----
-
-### 💻 Languages
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  </a>
-</p>
-
----
+### 💡 Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python" />
+</div>
 
 ### 📊 Data Science & ML
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="45" height="45"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
-  </a>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  &nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
+</div>
+
+### 🛠️ Tools & Platforms
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</div>
 
 ---
 
-### 🧠 Tools & Platforms
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  </a>
-</p>
+## 📊 GitHub Statistics
 
-----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityarajsingh11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajsingh11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityarajsingh11&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajsingh11&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarajsingh11&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-### 🧠 LeetCode & DSA Vibes  
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="coding gif">
-</p>
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityarajsingh11&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 ---
 
-### 📝 Quote to Code By  
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i> 😎
-</p>
+## 🎯 Current Goals for 2025
+
+```
+✅ Master Data Structures & Algorithms in C++
+🔄 Build 3 full-stack MERN projects
+🔄 Contribute to Open Source projects
+🔄 Dive deeper into Machine Learning
+🔄 Land a great internship/job opportunity
+```
 
 ---
 
-<p align="center">
-  ⭐ From <a href="https://github.com/adityarajsingh11">adityarajsingh11</a>
-</p>
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityarajsingh11/adityarajsingh11/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityarajsingh11/adityarajsingh11/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/adityarajsingh11/adityarajsingh11/output/github-snake.svg" />
+  </picture>
+</div>
+
+> **Note:** To enable the snake animation, create a GitHub Actions workflow in your profile repository. See setup instructions below in the README tips.
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 📝 A Quote I Live By
+
+<div align="center">
+  <blockquote>
+    <i>"Code is like humor. When you have to explain it, it's bad." 😎</i>
+  </blockquote>
+</div>
+
+---
+
+<!-- Animated Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+<div align="center">
+  ⭐ From <a href="https://github.com/adityarajsingh11">adityarajsingh11</a> — Drop a ⭐ if you like my work!
+</div>
